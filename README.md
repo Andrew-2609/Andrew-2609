@@ -1,8 +1,13 @@
-### :medal_sports: Hello, my name is Andrew Monteiro, and welcome to my profile :medal_sports:.
+## Hello there, my name is Andrew, and welcome to my profile :wave:
 
-## What am I up to lately? Well...
-- :seedling: I'm currently working with Java / Spring Boot development and automated mobile tests with Cucumber and Appium
-- 🇩🇪 - 🇨🇳 I'm currently learning German and Mandarin Chinese
+### What am I up to lately? Well... 
+- I'm currently working with:
+
+    :seedling: Java / Spring Boot development
+
+    🧪 Automated Mobile tests with Cucumber and Appium
+
+- :world_map: I'm currently learning *German* and *Mandarin Chinese*
 - :snake: And also improving my skills with Python
-- My 2021 **Goals**: Several; more acting and less talking :writing_hand: (*but live and work in the US someday would be awesome*)
-- :zap: Remote Jobs Rocks! :zap:
+- :fireworks: My 2021 Goals: Several; more acting and less talking 
+- :zap: Remote Jobs and Open Source Rocks! :zap:
