@@ -12,9 +12,7 @@
 - :fireworks: My 2021 Goals: Several; more acting and less talking 
 - :zap: Remote Jobs and Open Source Rocks! :zap:
 
----
-
-<img align="left" width="100%" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andrew-2609&show_icons=true&hide_border=true&theme=tokyonight" />
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrew-2609&show_icons=true&hide_border=true&theme=tokyonight)
 
 ### Connect with me:
 
