@@ -12,6 +12,10 @@
 - :fireworks: My 2021 Goals: Several; more acting and less talking 
 - :zap: Remote Jobs and Open Source Rocks! :zap:
 
+---
+
+<img align="left" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andrew2609&show_icons=true&hide_border=true" />
+
 ### Connect with me:
 
 [<img align="left" alt="NdrewCoding | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
