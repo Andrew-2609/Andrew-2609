@@ -15,6 +15,7 @@
 ### Connect with me:
 
 [My LinkedIn][linkedin]
+<br/>
 [My YouTube Channel][youtube]
 
 <br />
