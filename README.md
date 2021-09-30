@@ -14,7 +14,7 @@
 
 ---
 
-<img align="left" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andrew2609&show_icons=true&hide_border=true" />
+<img align="left" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andrew-2609&show_icons=true&hide_border=true" />
 
 ### Connect with me:
 
