@@ -20,7 +20,7 @@
 
 <br />
 
-<img align="center" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andrew-2609&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=andrew-2609&show_icons=true&hide_border=true&theme=tokyonight" />
 
 [linkedin]: https://www.linkedin.com/in/andrew-2609/
 [youtube]: https://www.youtube.com/channel/UCmQ39rZeUW3dxMiSjm6YX7Q
