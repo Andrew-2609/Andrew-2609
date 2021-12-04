@@ -1,4 +1,4 @@
-## Hello there, my name is Andrew, and welcome to my profile :wave:
+## Bonjour, je m'appelle Andrew et bienvenue sur mon profil :wave:
 
 ### Qu'est-ce que je fais ces derniers temps ? Bien...
 
@@ -10,7 +10,7 @@
 
 -   :world_map: J'apprends actuellement_Allemand_et_Chinois Mandarin_
 
--   :snake: Et aussi améliorer mes compétences avec Python
+-   :snake: And also improving my skills with Python
 
 -   :fireworks: Mes Objectifs 2021: Plusieurs; plus d'acteurs et moins de paroles
 
@@ -23,7 +23,7 @@
 
 ### Connectez-vous avec moi :
 
-[Mon LinkedIn][linkedin]<br/>[Ma chaîne YouTube][youtube]
+[Mon LinkedIn][linkedin]<br/>[My YouTube Channel][youtube]
 
 [linkedin]: https://www.linkedin.com/in/andrew-2609/
 
