@@ -10,7 +10,7 @@
 
 -   :world_map: 我正在学习_德语_和_普通话_
 
--   :snake: And also improving my skills with Python
+-   :snake: 还提高了我的 Python 技能
 
 -   ：烟花：我的 2021 年目标：几个；多表演少说话
 
