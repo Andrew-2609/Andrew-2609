@@ -23,7 +23,7 @@
 
 ### मेरे साथ जुड़ें:
 
-[मेरा लिंक्डइन][linkedin]<br/>[मेरा यूट्यूब चैनल][youtube]
+[My LinkedIn][linkedin]<br/>[मेरा यूट्यूब चैनल][youtube]
 
 [linkedin]: https://www.linkedin.com/in/andrew-2609/
 
