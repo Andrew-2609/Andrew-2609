@@ -6,7 +6,7 @@
 
     :seedling: Java / Spring Boot-Entwicklung
 
-      🧪 Automated Mobile tests with Cucumber and Appium
+    🧪 Automatisierte mobile Tests mit Gurke und Appium
 
 -   :world_map: Ich lerne gerade_Deutsch_und_Mandarin Chinesisch_
 
@@ -23,7 +23,7 @@
 
 ### Verbinden Sie sich mit mir:
 
-[My LinkedIn][linkedin]<br/>[Mein YouTube-Kanal][youtube]
+[My LinkedIn][linkedin]<br/>[My YouTube Channel][youtube]
 
 [linkedin]: https://www.linkedin.com/in/andrew-2609/
 
