@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="README.pt.md">Português</a> - <a href="README.md">Inglês</a> - <a href="README.de.md">Alemão</a>
+</p>
+
 ## Olá, meu nome é Andrew, bem-vindo(a) ao meu perfil :wave:
 
 ### O que ando fazendo? Bom...
