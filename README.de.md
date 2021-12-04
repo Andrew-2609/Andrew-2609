@@ -4,7 +4,7 @@
 
 ## Hallo, mein Name ist Andrew und willkommen auf meinem Profil :wave:
 
-### Was habe ich in letzter Zeit vor? Brunnen...
+### Was habe ich in letzter Zeit vor? Na ja...
 
 - Ich arbeite derzeit mit:
 
