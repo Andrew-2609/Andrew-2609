@@ -27,8 +27,6 @@
 
 ### Verbinden Sie sich mit mir:
 
-[Mein LinkedIn][linkedin]<br/>[Mein YouTube-Kanal][youtube]
-
-[linkedin]: https://www.linkedin.com/in/andrew-2609/
-
-[youtube]: https://www.youtube.com/channel/UCmQ39rZeUW3dxMiSjm6YX7Q
+<a href="https://www.linkedin.com/in/andrew-2609/" target="_blank"><img alt="Mein LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCmQ39rZeUW3dxMiSjm6YX7Q" target="_blank"><img alt="Mein YouTube-Kanal" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.instagram.com/andrewbunro/" target="_blank"><img alt="Mein Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
