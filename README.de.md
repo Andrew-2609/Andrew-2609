@@ -21,8 +21,8 @@
 - ⚡ Remote Jobs und Open Source Rocks!
 
 <p align="left">
- <img alt="Meine GitHub-Statistiken - Andrew Monteiro" src="https://github-readme-stats.vercel.app/api?username=andrew-2609&show_icons=true&hide_border=true&theme=tokyonight" height="190"> 
- <img alt="Meine am häufigsten verwendeten Programmiersprachen - Andrew Monteiro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-2609&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&exclude_repo=Eccezionale-MVC,CorporacaoUmbrella,diversos,projetos">
+ <img alt="Meine GitHub-Statistiken - Andrew Monteiro" src="https://github-readme-stats.vercel.app/api?username=andrew-2609&show_icons=true&hide_border=true&theme=tokyonight&locale=de" height="190"> 
+ <img alt="Meine am häufigsten verwendeten Programmiersprachen - Andrew Monteiro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-2609&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&exclude_repo=Eccezionale-MVC,CorporacaoUmbrella,diversos,projetos&locale=de">
 </p>
 
 ### Verbinden Sie sich mit mir:
