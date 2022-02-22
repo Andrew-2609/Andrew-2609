@@ -8,17 +8,21 @@
 
 - Ich arbeite derzeit mit:
 
-  🌱 Java / Spring Boot development
+  ☕ Java / Spring Boot-Entwicklung
 
-  🧪 Automatisierte mobile Tests mit Gurke und Appium
+  📊 SQL Server
 
-- 🗺 Ich lerne gerade _German_ und _Mandarin Chinesisch_
+  👨‍💻 Git
 
-- 🐍 Und auch meine Fähigkeiten mit Python verbessern
-
-- 🎆 Meine Ziele für 2021: Mehrere; mehr schauspielern und weniger reden
-
+- 🗺 Ich lerne gerade *Deutsch* und *Niederländisch*
+- 🟨 Und auch meine Fähigkeiten mit JavaScript verbessern
+- 🎆 Meine Ziele für 2022: Mehrere; mehr schauspielern und weniger reden
 - ⚡ Remote Jobs und Open Source Rocks!
+- ⛅ Träume davon, für ein Unternehmen aus einem anderen Land zu arbeiten
+
+Ich interessiere mich auch besonders für Clean Code mit Java, und die obigen Punkte sind einfach eine Zusammenfassung
+dessen, was vor sich geht. Überprüfen meine [repositories](https://github.com/Andrew-2609?tab=repositories) heraus, um
+zu sehen, was ich in letzter Zeit *wirklich* vorhabe :v.
 
 <p align="left">
  <img alt="Meine GitHub-Statistiken - Andrew Monteiro" src="https://github-readme-stats.vercel.app/api?username=andrew-2609&show_icons=true&hide_border=true&theme=tokyonight&locale=de" height="190"> 
