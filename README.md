@@ -8,9 +8,9 @@
 
 - I'm currently working with:
 
-  ☕ Java / Spring Boot development
+  🤖 Node.js / TypeScript
 
-  📊 SQL Server
+  📊 PostgreSQL
 
   👨‍💻 Git
 
