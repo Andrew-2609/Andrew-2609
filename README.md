@@ -40,7 +40,7 @@ Please, check out my [repositories](https://github.com/Andrew-2609?tab=repositor
 
 <p align="left">
  <img alt="My GitHub Stats - Andrew Monteiro" src="https://github-readme-stats.vercel.app/api?username=andrew-2609&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="190"> 
- <img alt="My Most Used Programming Languages - Andrew Monteiro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-2609&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&exclude_repo=Eccezionale-MVC,CorporacaoUmbrella,diversos,projetos">
+ <img alt="My Most Used Programming Languages - Andrew Monteiro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-2609&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&exclude_repo=Eccezionale-MVC,CorporacaoUmbrella,diversos,projetos,Andrew-2609">
 </p>
 
 ## 🌐 Connect with me
