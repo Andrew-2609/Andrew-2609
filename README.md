@@ -43,6 +43,6 @@ Please, check out my [repositories](https://github.com/Andrew-2609?tab=repositor
  <img alt="My Most Used Programming Languages - Andrew Monteiro" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-2609&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&exclude_repo=Eccezionale-MVC,CorporacaoUmbrella,diversos,projetos,Andrew-2609">
 </p>
 
-## 🌐 Connect with me
+## 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/andrew-2609/" target="_blank"><img alt="My LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCmQ39rZeUW3dxMiSjm6YX7Q" target="_blank"><img alt="My YouTube channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>

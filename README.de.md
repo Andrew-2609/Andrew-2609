@@ -26,7 +26,7 @@
 
   📡 gRPC
 
-  🥇 Leadership
+  🥇 Führung
 
 - 🗺 Ich **spreche** *Portugiesisch* und *Englisch* und **lerne** derzeit *Französisch*
 - 🟦 Und auch meine Fähigkeiten mit TypeScript verbessern
