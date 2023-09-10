@@ -6,10 +6,15 @@
 
 ### Software Developer @Pag.aí
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/Andrew-2609/mec-man/main/logo-gif.gif" alt="Mec-Man logo" width="100" height="100" />
+
+<br/>
 
 ## ⌛ What am I up to lately? Well...
 
+~~~
 - I'm currently working with:
 
   🤖 Node.js / TypeScript
@@ -27,6 +32,7 @@
   📡 gRPC
 
   🥇 Leadership
+~~~
 
 - 🗺 I **speak** *Portuguese* and *English*, and I'm currently **learning** *French*
 - 🟦 And also improving my skills with TypeScript on a daily basis
