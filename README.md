@@ -24,6 +24,8 @@
 
   🐹 Go
 
+  🔮 gRPC
+
   🥇 Leadership
 
 - 🗺 I **speak** *Portuguese* and *English*, and I'm currently **learning** *French*
