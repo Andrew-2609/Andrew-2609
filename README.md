@@ -24,7 +24,7 @@
 
   🐹 Go
 
-  🔮 gRPC
+  📡 gRPC
 
   🥇 Leadership
 
