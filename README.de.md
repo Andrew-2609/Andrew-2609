@@ -12,6 +12,8 @@
 
 - Ich arbeite derzeit mit:
 
+  🐹 GoLang
+
   🤖 Node.js / TypeScript
 
   📊 PostgreSQL
@@ -22,15 +24,13 @@
 
 - Und ich lerne auch:
 
-  🐹 Go
-
   📡 gRPC
 
   🥇 Führung
 
-- 🗺 Ich **spreche** *Portugiesisch* und *Englisch* und **lerne** derzeit *Französisch*
-- 🟦 Und auch meine Fähigkeiten mit TypeScript verbessern
-- 🎆 Meine Ziele für 2023: Mehrere; mehr schauspielern und weniger reden
+- 🗺 Ich **spreche** *Portugiesisch* und *Englisch* und **lerne** derzeit *Deutsch*
+- 🟦 Und auch meine Fähigkeiten mit TypeScript und GoLang verbessern
+- 🎆 Meine Ziele für 2024: Mehrere; mehr schauspielern und weniger reden
 - ⚡ Remote Jobs und Open Source Rock!
 - ⛅ Träume davon, für ein Unternehmen aus einem anderen Land zu arbeiten
 
