@@ -4,7 +4,7 @@
 
 # Andrew Monteiro
 
-### Desenvolvedor de Software na @Pag.aí
+### Engenheiro de Software na @Pag.aí
 
 <img src="https://raw.githubusercontent.com/Andrew-2609/mec-man/main/logo-gif.gif" alt="Mec-Man logo" width="100" height="100" />
 
