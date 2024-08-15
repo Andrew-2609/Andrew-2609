@@ -12,7 +12,9 @@
 
 - Atualmente estou trabalhando com:
 
-  ☕ Node.js / TypeScript
+  🐹 GoLang
+
+  🤖 Node.js / TypeScript
 
   📊 PostgreSQL
 
@@ -22,15 +24,13 @@
 
 - E também estou estudando:
 
-  🐹 Go
-
   📡 gRPC
 
   🥇 Liderança
 
-- 🗺 Sei falar em *inglês* e estou aprendendo *francês*
-- 🟦 E também estou diariamente melhorando minhas habilidades com TypeScript
-- 🎆 Meus objetivos para 2023: Vários; mais atitude e menos conversa
+- 🗺 Sei falar em *inglês* e estou aprendendo *alemão*
+- 🟦 E também estou diariamente melhorando minhas habilidades com TypeScript e GoLang
+- 🎆 Meus objetivos para 2024: Vários; mais atitude e menos conversa
 - ⚡ Trabalhos remotos e Open Source detonam!
 - ⛅ Sonhando em trabalhar para uma empresa de outro país
 
