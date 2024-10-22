@@ -4,7 +4,7 @@
 
 # Andrew Monteiro
 
-### Software Engineer @Pag.aí
+### Software Engineer [@TRACTIAN](https://tractian.com/en)
 
 <img src="https://raw.githubusercontent.com/Andrew-2609/mec-man/main/logo-gif.gif" alt="Mec-Man logo" width="100" height="100" />
 
